@@ -1,0 +1,12 @@
+# MySQL
+*.sql.bak
+
+# Power BI
+*.pbix
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
